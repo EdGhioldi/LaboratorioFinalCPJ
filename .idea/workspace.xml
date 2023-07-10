@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5dae7c03-5214-44a5-a67d-d5674c32dcf5" name="Changes" comment="">
+    <list default="true" id="5dae7c03-5214-44a5-a67d-d5674c32dcf5" name="Changes" comment="Codigo en paquetes domain, excepciones, pelicula (clase AccesoDatosImp incompleta)">
       <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/excepciones/AccesoDatosEx.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/excepciones/EscribirDatosEx.java" afterDir="false" />
@@ -64,5 +64,9 @@
       <updated>1688912804072</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Codigo en paquetes domain, excepciones, pelicula (clase AccesoDatosImp incompleta)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codigo en paquetes domain, excepciones, pelicula (clase AccesoDatosImp incompleta)" />
   </component>
 </project>
